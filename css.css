@@ -1,0 +1,65 @@
+@charset "utf-8";
+.rojo {
+    justify-content: center;
+    background-color: #8c1308d9;
+    text-align: center;
+    color: #FFFFFF;
+}
+.texto {
+    justify-content: center;
+    color: #bfa980d8;
+}
+.centro {
+    justify-content: center;
+    color: #8c1308d9;
+    text-align: center;
+}
+.centro3 {
+    margin: 10px;
+    text-align: center;
+}
+
+.centro2 {
+    justify-content: center;
+    text-align: justify;
+    color: #FFFFFF;
+	
+  font-family: "Hind", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+.blanco {
+    justify-content: center;
+    text-align: justify;
+    color: #BFA980;
+}
+.BLANCO1 {
+    justify-content: center;
+    color: #FFFFFF;
+    background-color: #666666;
+}
+.CAFE {
+    background-color: #a67244d9;
+
+}
+.subtitulo {
+    background-color: #A67244;
+    text-align: center;
+    color: #FFFFFF;
+	
+  font-family: "Castoro", serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+.castoro-regular {
+  font-family: "Castoro", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.hind-regular {
+  font-family: "Hind", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
